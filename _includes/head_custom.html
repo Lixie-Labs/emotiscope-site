@@ -1,5 +1,14 @@
 
-<style>  
+<style>
+  :root {
+    --text: #edeff7;
+    //--background: #070c1d;
+    --background: 7, 12, 29;
+    --primary: #ffb177;
+    --secondary: #81317b;
+    --accent: #c15b90;
+  }
+
   @font-face {
     font-family: 'ChakraPetch';
     src: url('/extras/ChakraPetch.woff2') format('woff2');
@@ -8,14 +17,14 @@
   h1 {
     font-family: 'ChakraPetch', sans-serif;
     letter-spacing: 0.03em !important;
-    border-bottom: 5px dotted #7796ff;
+    border-bottom: 5px dotted var(--accent);
     padding: 10px 0px;
     padding-right: 10px;
     margin-bottom: 20px !important;
   }
 
   .site-title {
-    color:#ffffff;
+    color: var(--accent);
     font-family: 'ChakraPetch', sans-serif;
     font-size: 26px !important;
   }
