@@ -10,7 +10,7 @@ has_toc: false
 
 <t1>LET YOUR EYES ENJOY MUSIC TOO</t1> 
 
-<t2>Sensory Bridge is built from the ground up as an open, powerful bridge between sight and sound.</t2>
+<t2>Sensory Bridge is built from the ground up as an open, powerful bridge between sight and sound.</t2> 
 
 [Learn More](https://connornishijima.github.io/sensory_bridge_docs/is_different.html){: .btn .btn-green }
 [Configure Your Device](https://settings.sensorybridge.rocks){: .btn .btn-blue }
