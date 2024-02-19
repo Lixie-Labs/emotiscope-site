@@ -1,5 +1,5 @@
 ---
-title: emotiscope is...
+title: Emotiscope is...
 layout: home
 nav_order: 2
 has_children: true
