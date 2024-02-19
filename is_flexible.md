@@ -1,7 +1,7 @@
 ---
 title: Flexible
 layout: page
-parent: Sensory Bridge is...
+parent: Emotiscope is...
 nav_order: 3
 ---
 
