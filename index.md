@@ -13,4 +13,4 @@ has_toc: false
 <t2>Emotiscope is built from the ground up as an open, powerful bridge between sight and sound.</t2> 
 
 [Learn More](https://connornishijima.github.io/sensory_bridge_docs/is_different.html){: .btn .btn-green }
-[Jump To The App](https://settings.sensorybridge.rocks){: .btn .btn-blue }
+[Jump To The App](https://app.emotiscope.rocks){: .btn .btn-blue }
