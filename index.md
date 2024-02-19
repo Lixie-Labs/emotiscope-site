@@ -1,5 +1,5 @@
 ---
-title: Emotiscope is...
+title: emotiscope is...
 layout: home
 nav_order: 2
 has_children: true
@@ -13,7 +13,4 @@ has_toc: false
 <t2>Emotiscope is built from the ground up as an open, powerful bridge between sight and sound.</t2> 
 
 [Learn More](https://connornishijima.github.io/sensory_bridge_docs/is_different.html){: .btn .btn-green }
-[Configure Your Device](https://settings.sensorybridge.rocks){: .btn .btn-blue }
-
-<img class="small-img" src="https://github.com/connornishijima/sensory_bridge_docs/blob/main/img/product.png?raw=true" style="margin-top: -30px; margin-left: -40px; margin-bottom: -40px;">
-
+[Jump To The App](https://settings.sensorybridge.rocks){: .btn .btn-blue }
