@@ -1,8 +1,8 @@
-title: SENSORY BRIDGE
+title: EMOTISCOPE
 description: A music visualizer from the future!
 theme: just-the-docs
 
-url: https://connornishijima.github.io/sensory_bridge_docs
+url: https://lixie-labs.github.io/emotiscope-site
 
 #logo: "/img/product.png"
 
@@ -34,10 +34,10 @@ aux_links:
 
 # External navigation links
 nav_external_links:
-  - title: Settings
-    url: https://settings.sensorybridge.rocks
+  - title: App
+    url: https://app.emotiscope.rocks
     hide_icon: false # set to true to hide the external link icon - defaults to false
-    opens_in_new_tab: true # set to true to open this link in a new tab - defaults to false
+    opens_in_new_tab: false # set to true to open this link in a new tab - defaults to false
   - title: Mastodon
     url: https://leds.social/@lixielabs
     hide_icon: false # set to true to hide the external link icon - defaults to false
