@@ -29,7 +29,7 @@ callouts:
     color: grey-dk
 
 aux_links:
-  "<link-out>REMOTE</link-out>":
+  "<link-out>JUMP TO APP</link-out>":
     - "https://app.emotiscope.rocks/"
 
 # External navigation links
