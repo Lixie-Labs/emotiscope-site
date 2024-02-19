@@ -23,7 +23,7 @@ nav_order: 1
 
 <iframe class="youtube-video" src="https://www.youtube.com/embed/lSViYTUbcms?si=J8cbDCu977SW522o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-With it's built-in digital microphone it automatically converts any music playing in your space into a compelling and colorful show. No aux cables needed, you can even sing around it!
+With it's built-in digital microphone it automatically converts any music playing in your space into a compelling and colorful show. No aux cables needed, you can even sing around it! 
 
 {: .glow }
 > ***Next, let's explore the buttons and knobs on top of Sensory Bridge...***{: .text-right }
