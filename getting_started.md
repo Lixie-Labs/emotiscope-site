@@ -6,7 +6,7 @@ has_children: true
 has_toc: false
 ---
 
-# **getting started** with emotiscope
+# **getting&nbsp;started** with&nbsp;emotiscope
 
 **Hello!** First off - thank you for supporting Lixie Labs. I began designing this concept in March 2022, and a lot of love has gone into it up to this moment.
 
