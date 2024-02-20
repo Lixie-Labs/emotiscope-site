@@ -5,7 +5,7 @@ parent: Emotiscope is...
 nav_order: 1
 ---
 
-# emotiscope is **different**
+# emotiscope&nbsp;is **different**
 
 **This isn't the usual "sound-reactive LEDs" you've seen for years.**
 

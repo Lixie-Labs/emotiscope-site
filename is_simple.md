@@ -5,7 +5,7 @@ parent: Emotiscope is...
 nav_order: 2
 ---
 
-# SENSORY BRIDGE is **SIMPLE**
+# SENSORY&nbsp;BRIDGE&nbsp;is **SIMPLE**
 
 **Easy controls provide quick access to changing the brightness, color, and smoothing of the display!** (Each knob has a UI that appears on your LED strip whenever you turn them.)
 
