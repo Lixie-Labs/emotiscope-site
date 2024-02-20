@@ -10,9 +10,9 @@ has_toc: false
 
 **Hello!** First off - thank you for supporting Lixie Labs. I began designing this concept in March 2022, and a lot of love has gone into it up to this moment.
 
-![EMOTISCOPE IS SIMPLE](https://github.com/connornishijima/sensory_bridge_docs/blob/main/img/7.jpg?raw=true)
-
 Emotiscope is quite easy to set up, so let's go over how to get it working.
+
+![EMOTISCOPE IS SIMPLE](https://github.com/connornishijima/sensory_bridge_docs/blob/main/img/7.jpg?raw=true)
 
 {: .info }
 > If something about your Emotiscope is not functioning properly, there's an interactive Troubleshooting Guide you can follow to try and fix things!
