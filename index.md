@@ -12,5 +12,3 @@ has_toc: false
 
 [Learn More](https://emotiscope.rocks/is_different.html){: .btn .btn-green }
 [Jump To The App](https://app.emotiscope.rocks){: .btn .btn-blue }
-
-<iframe class="youtube-video" src="https://www.youtube.com/embed/ALHj-XW7_6Y?si=NDxwEP0wKecF-Jry" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
