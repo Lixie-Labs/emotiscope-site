@@ -6,7 +6,7 @@ has_children: true
 has_toc: false
 ---
 
-<t1>a music visualizer **from the future**</t1> 
+<t1>a music visualizer <strong>from the future</strong></t1> 
 
 <t2>Emotiscope is built from the ground up as an open, powerful bridge between sight and sound.</t2> 
 
