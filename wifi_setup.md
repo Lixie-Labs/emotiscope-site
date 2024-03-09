@@ -4,7 +4,7 @@ layout: home
 nav_order: 7
 ---
 
-# emotiscope&nbsp;wifi **setup**
+# **wifi** setup
 
 **This isn't the usual "sound-reactive LEDs" you've seen for years.**
 
