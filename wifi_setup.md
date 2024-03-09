@@ -1,7 +1,7 @@
 ---
 title: WiFi Setup
-layout: page
-nav_order: 1
+layout: home
+nav_order: 7
 ---
 
 # emotiscope&nbsp;wifi **setup**
