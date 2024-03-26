@@ -3,6 +3,7 @@ description: a music visualizer from the future
 theme: just-the-docs
 
 url: "https://emotiscope.rocks"
+baseurl: "/emotiscope-site"
 
 #logo: "/img/product.png"
 
