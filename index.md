@@ -12,3 +12,5 @@ has_toc: false
 
 [Learn More](https://emotiscope.rocks/is_different.html){: .btn .btn-green }
 [Jump To The App](https://app.emotiscope.rocks){: .btn .btn-blue }
+
+![EMOTISCOPE IS SIMPLE](https://github.com/lixie-labs/emotiscope-site/blob/main/img/emotiscope_shelf.jpg?raw=true)
