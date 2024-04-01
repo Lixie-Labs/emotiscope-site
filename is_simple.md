@@ -9,6 +9,8 @@ nav_order: 2
 
 Emotiscope has two types of controls: touch and wireless!
 
+![TOUCH](https://github.com/lixie-labs/emotiscope/blob/main/extras/img/emotiscope_touch.jpg?raw=true)
+
 ## Touch
 
 Emotiscope has three touch points: the top, left, and right side. Holding your finger on the left or right side allows you to change the color of the show, tapping the top skips to the next light-show mode, and holding down on the top puts Emotiscope to sleep, entirely disabling the microphone and playing a short visual outro. Once asleep, tapping the device will instantly wake it up, ready for another stellar show.
