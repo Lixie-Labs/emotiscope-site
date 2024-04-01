@@ -1,7 +1,7 @@
 ---
 title: WiFi Setup
 layout: home
-nav_order: 7
+nav_exclude: true
 ---
 
 # **wifi** setup
