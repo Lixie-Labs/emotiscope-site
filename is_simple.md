@@ -27,6 +27,8 @@ Sliders work like knobs to control things like brightness, color, reaction speed
 
 <iframe class="youtube-video" src="https://www.youtube.com/embed/SXX167ymKAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+![APP](https://github.com/lixie-labs/emotiscope/blob/main/extras/img/app_collage_dark.jpg?raw=true)
+
 
 
 
