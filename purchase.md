@@ -4,10 +4,10 @@ layout: page
 nav_order: 1
 ---
 
-![SENSORY BRIDGE IS SIMPLE](https://github.com/connornishijima/sensory_bridge_docs/blob/main/img/purchase.jpg?raw=true)
+![EMOTISCOPE IS SIMPLE](https://github.com/lixie-labs/emotiscope/blob/main/extras/img/emotiscope_plant_peek.jpg?raw=true)
 
 # **purchase** emotiscope
 
-Emotiscope is evailable for $120 USD on the Lixie Labs store, hosted on lectronz.com!
+Emotiscope is evailable for $120 USD on the Lixie Labs store, hosted on tindie.com!
 
-[PURCHASE](https://lectronz.com/products/emotiscope){: .btn .btn-green }
+[PURCHASE](https://www.tindie.com/products/lixielabs/emotiscope-a-new-bridge-between-sight-sound/){: .btn .btn-green }
