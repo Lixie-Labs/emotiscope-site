@@ -5,7 +5,7 @@ parent: Emotiscope is...
 nav_order: 4
 ---
 
-# WHAT'S **INCLUDED:**
+# what's **included:**
 
 For $120 USD, you'll receive a ***fully assembled and pre-programmed Emotiscope***, with the latest firmware already installed!
 
