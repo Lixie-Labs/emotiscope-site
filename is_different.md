@@ -17,7 +17,7 @@ With a magic diffuser covering 128 of the world's smallest addressable LEDs - wh
 
 <iframe class="youtube-video" src="https://www.youtube.com/embed/RL3yObsQm0s?si=AS5Fr2Ib6MsJxe1z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-With it's built-in digital microphone it automatically converts any music playing in your space into a compelling and colorful show. No aux cables needed, you can even sing around it! 
+With it's built-in digital microphone, Emotiscope automatically converts any music playing in your space into a compelling and colorful show. No aux cables needed, you can even sing around it! 
 
 {: .glow }
 > ***Next, let's explore the touch-sensitive and wireless controls of Emotiscope...***{: .text-right }
