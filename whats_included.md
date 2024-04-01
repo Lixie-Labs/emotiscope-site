@@ -2,7 +2,7 @@
 title: What's Included
 layout: page
 parent: Emotiscope is...
-nav_order: 5
+nav_order: 4
 ---
 
 # WHAT'S **INCLUDED:**
