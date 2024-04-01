@@ -21,7 +21,7 @@ Emotiscope has three touch points: the top, left, and right side. Holding your f
 
 For more flexible control, there's the Emotiscope app. No downloads, no install, no account, no subscription, simply visit [app.emotiscope.rocks](https://app.emotiscope.rocks/) from any phone on the same WiFi network as Emotiscope to be automatically connected in seconds. (You can even bookmark it to your home screen!)
 
-Once there, you're greeted with a very simple interface with only one concept to learn: sliders.
+Once there, you're greeted with a very simple interface with only one concept to learn: **sliders**.
 
 Sliders work like knobs to control things like brightness, color, reaction speed, and more. Just drag your thumb up and down anywhere on the slider to alter it, and your changes are automatically saved to Emotiscope. 
 
