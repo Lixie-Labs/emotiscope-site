@@ -7,7 +7,7 @@ nav_order: 2
 
 # emotiscope&nbsp;is **simple**
 
-Emotiscope has two types of controls: touch and wireless!
+Emotiscope has two types of controls: **touch** and **wireless**!
 
 ![TOUCH](https://github.com/lixie-labs/emotiscope/blob/main/extras/img/emotiscope_touch_crop.jpg?raw=true)
 
