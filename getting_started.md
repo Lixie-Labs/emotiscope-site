@@ -16,8 +16,8 @@ Emotiscope is quite easy to set up, so let's go over how to get it working.
 
 -------------------------------------------------------
 
-***First, let's begin by putting Emotiscope on your WiFi network...***
+***First, let's get Emotiscope plugged in...***
 
-[WiFi Configuration](https://emotiscope.rocks/wifi_configuration.html){: .btn .btn-green .text-right }
+[Plugging In](https://emotiscope.rocks/plugging_in.html){: .btn .btn-green .text-right }
 
 -------------------------------------------------------
