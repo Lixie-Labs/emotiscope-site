@@ -7,6 +7,10 @@ nav_order: 3
 
 # the **emotiscope app**
 
+> You found the page I haven't finished yet today!
+>
+> Congratulations, stay tuned!
+
 Before powering your Sensory Bridge, you'll need to install your own [WS2812B-compatible LED strip](https://www.amazon.com/WS2812B-Individual-Addressable-144Pixels-Non-Waterproof/dp/B09PBHJG6G/ref=sr_1_5?crid=3KPXUN3NEV06Q&keywords=ws2812b%2Bled%2Bstrip%2B144&qid=1662389723&sprefix=ws2812b%2Bled%2Bstrip%2B144%2Caps%2C128&sr=8-5&th=1) if you aren't using a Mini Mast.
 
 **All WS2812B-compatible LED strips have three wires in these colors:**
