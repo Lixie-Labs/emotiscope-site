@@ -12,17 +12,12 @@ has_toc: false
 
 Emotiscope is quite easy to set up, so let's go over how to get it working.
 
-![EMOTISCOPE IS SIMPLE](https://github.com/connornishijima/sensory_bridge_docs/blob/main/img/7.jpg?raw=true)
-
-{: .info }
-> If something about your Emotiscope is not functioning properly, there's an interactive Troubleshooting Guide you can follow to try and fix things!
->
-> [Start The Troubleshooter](https://emotiscope.rocks/troubleshooting/){: .btn .btn-blue }
+![EMOTISCOPE IS SIMPLE](https://github.com/lixie-labs/emotiscope/blob/main/extras/img/emotiscope_macro.jpg?raw=true)
 
 -------------------------------------------------------
 
-***First, let's begin by building your lighting setup...***
+***First, let's begin by putting Emotiscope on your WiFi network...***
 
-[Mast Assembly](https://connornishijima.github.io/sensory_bridge_docs/mast_assembly.html){: .btn .btn-green .text-right }
+[WiFi Configuration](https://emotiscope.rocks/wifi_configuration.html){: .btn .btn-green .text-right }
 
 -------------------------------------------------------
