@@ -2,7 +2,7 @@
 title: App Tour
 layout: page
 parent: Getting Started
-nav_order: 2
+nav_order: 3
 ---
 
 # the **emotiscope app**
