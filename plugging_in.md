@@ -11,7 +11,7 @@ The day is finally here! Grab yourself a USB-C cable, remove the protective cove
 
 ![PLUGGING IN](https://github.com/lixie-labs/emotiscope/blob/main/extras/img/emotiscope_usb_cable.jpg?raw=true)
 
-Suddenly, it lives. Talk to it! See how your voice affects the display. Hold your fingers on the top, left or right sides to see what happens. It's listening through a microphone behind the left-side hole. However, the hole on the right side is flashing - meaning Emotiscope can't connect to your WiFi.
+Suddenly, it lives. Talk to it! See how your voice affects the display. Hold your fingers on the top, left or right sides to see what happens. It's listening through a microphone behind the left-side hole. However, you'll notice that **the hole on the right side is flashing** - meaning Emotiscope can't connect to your WiFi yet.
 
 -------------------------------------------------------
 
