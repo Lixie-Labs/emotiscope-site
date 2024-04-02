@@ -12,9 +12,9 @@ has_toc: false
 
 -------
 
-***First, let's get Emotiscope plugged in...***{: .text-right }
+***First, let's get Emotiscope plugged in...***
 
-[Plugging In →](https://emotiscope.rocks/plugging_in.html){: .btn .btn-green .float-right }
+[Plugging In →](https://emotiscope.rocks/plugging_in.html){: .btn .btn-green .text-right }
 
 -------
 
