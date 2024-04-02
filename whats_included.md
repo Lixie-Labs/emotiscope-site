@@ -9,7 +9,7 @@ nav_order: 4
 
 For $120 USD, you'll receive a ***fully assembled and pre-programmed Emotiscope***, with the latest firmware already installed!
 
-[Purchase Emotiscope](https://emotiscope.rocks/purchase.html){: .btn .btn-green }
+[Purchase Emotiscope](https://emotiscope.rocks/purchase.html){: .btn .btn-green }  [Getting Started Guide](https://emotiscope.rocks/getting_started.html){: .btn .btn-blue }
 
 ![WHATS INCLUDED](https://github.com/lixie-labs/emotiscope/blob/main/extras/img/emotiscope_touch_crop.jpg?raw=true)
 
