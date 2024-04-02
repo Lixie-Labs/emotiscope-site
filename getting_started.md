@@ -12,8 +12,6 @@ has_toc: false
 
 Emotiscope is quite easy to set up, so let's go over how to get it working.
 
-![EMOTISCOPE IS SIMPLE](https://github.com/lixie-labs/emotiscope/blob/main/extras/img/emotiscope_macro.jpg?raw=true)
-
 -------------------------------------------------------
 
 ***First, let's get Emotiscope plugged in...***
@@ -21,3 +19,5 @@ Emotiscope is quite easy to set up, so let's go over how to get it working.
 [Plugging In](https://emotiscope.rocks/plugging_in.html){: .btn .btn-green .text-right }
 
 -------------------------------------------------------
+
+![EMOTISCOPE IS SIMPLE](https://github.com/lixie-labs/emotiscope/blob/main/extras/img/emotiscope_macro.jpg?raw=true)
