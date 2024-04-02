@@ -1,5 +1,5 @@
 ---
-title: Mast Assembly
+title: WiFi Configuration
 layout: page
 parent: Getting Started
 nav_order: 1
