@@ -53,6 +53,7 @@ Bloom Mode is quite versatile. Dragging the speed slider all the way down makes 
 
 <iframe class="youtube-video" src="https://www.youtube.com/embed/SXX167ymKAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+{: .glow }
 > ***If you're feeling interested in an Emotiscope, let's look at what's included in the box...***{: .text-right }
 > 
 > [What's Included →](https://emotiscope.rocks/whats_included.html){: .btn .btn-green .float-right }
