@@ -109,11 +109,11 @@ Emotiscope can adapt to different acoustic environments by sampling the backgrou
 
 When no audio is heard for a short while, Emotiscope will gently daydream a 4-colored pattern while it awaits new tunes. You can disable this in the Top Menu if you'd like.
 
-![TOP MENU](https://github.com/lixie-labs/emotiscope-site/blob/main/img/top_menu.jpg?raw=true)
-
 # the **top menu**
 
 Up in the top menu, you'll get to the deeper settings and data about Emotiscope.
+
+![TOP MENU](https://github.com/lixie-labs/emotiscope-site/blob/main/img/top_menu.jpg?raw=true)
 
 ## Screensaver
 
