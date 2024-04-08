@@ -136,13 +136,3 @@ The MAC address of your Emotiscope, in case your WiFi network uses whitelisting.
 # Version
 
 The current version of the Emotiscope Engine firmware your device is running.
-
-> You found the page I haven't finished yet today!
->
-> Congratulations, stay tuned!
-
-{: .warning }
-While the advice in this section is likely correct in 99% of cases, ALWAYS double check the labelling and color scheme of the wires in your own LED strip to be sure that nothing will be damaged.
-
-{: .highlight }
-Some strips have duplicate wires for 5V and GND. These can be wired to a separate power supply, individually covered with electrical tape, or doubled-up into the corresponding terminals if you plan to power the LEDs using only the Sensory Bridge.
