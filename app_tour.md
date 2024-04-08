@@ -13,11 +13,23 @@ If your phone didn't automatically forward you to the Emotiscope web app, then y
 
 # the **full tour**
 
-I've tried my best to keep Emotiscope's remote as simple as possible, with only one main function to learn: **Sliders**. If you've ever used a dimmer switch, *you already understand Sliders.* Too dim? Pull up. Too colorful? Pull down.
+I've tried my best to keep Emotiscope's remote *(Remotiscope?)* as simple as possible, with only one main function to learn: **Sliders**. If you've ever used a dimmer switch, *you already understand Sliders.* Too dim? Pull up. Too colorful? Pull down.
 
-You'll always see three Sliders on-screen at a given time, but you can always swipe horizontally to scroll through the Slider Gallery.
+You'll always see three Sliders on-screen at a given time, but you can always swipe horizontally to scroll through the **Slider Gallery**.
 
+Let's learn them all really quickly:
 
+| Setting       | Description                                                                                                                                                                                        |
+|---------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Brightness    | The brightness of your Emotiscope's LED display                                                                                                                                                  |
+| Softness      | How quickly your Emotiscope's display reacts to changes; this can be used to reduce flickering effects at the cost of reaction time                                                              |
+| Speed         | How quickly things on screen can move                                                                                                                                                            |
+| Color         | The base color of the current mode                                                                                                                                                               |
+| Color Range   | How much the color can vary from the base color                                                                                                                                                  |
+| Saturation    | The intensity of the color of the display                                                                                                                                                        |
+| Blue Filter   | Applies a filter to the display which limits the brightness of blue colors, similar to the look of incandenscent light bulbs that were tinted by a colored film                                  |
+| Background    | The intensity of the background color                                                                                                                                                            |
+| Mirror Mode   | **(toggle)** Scales the display to 1/2 size and mirrors it to be symmetrical                                                                                                                     |
 
 > You found the page I haven't finished yet today!
 >
