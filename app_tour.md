@@ -11,17 +11,15 @@ If your phone didn't automatically forward you to the Emotiscope web app, then y
 
 [Jump To The App](https://app.emotiscope.rocks/){: .btn .btn-green }
 
+![GALLERY](https://github.com/lixie-labs/emotiscope-site/blob/main/img/gallery.jpg?raw=true)
+
 # the **quick tour**
 
 I've tried my best to keep Emotiscope's remote *(Remotiscope?)* as simple as possible, with only one main function to learn: **Sliders**.
 
 If you've ever used a dimmer switch, *you already understand Sliders.*
 
-Too dim? Pull up. Too colorful? Pull down.
-
-You'll always see three Sliders on-screen at a given time, but you can always swipe horizontally to scroll through the **Slider Gallery**.
-
-![GALLERY](https://github.com/lixie-labs/emotiscope-site/blob/main/img/gallery.jpg?raw=true)
+Too dim? Pull up. Too colorful? Pull down. You'll always see three Sliders on-screen at a given time, but you can always swipe horizontally to scroll through the **Slider Gallery**.
 
 Each slider can be used to customize the current light-show mode:
 
