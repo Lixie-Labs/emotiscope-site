@@ -7,7 +7,7 @@ nav_order: 3
 
 # the **remote control**
 
-If your phone didn't automatically forward you to the Emotiscope web app, then you can access it from the button below. **Play some funky tunes, and enjoy!** *Come back here if you want to learn more!*
+If your phone didn't automatically forward you to the Emotiscope web app, then you can access it from the button below. It's a webpage, you don't need to install anything from your app store! Add it to your phone's homescreen and it will have an Emotiscope icon and all. No account, no ads, no lag, just **play some funky tunes, and enjoy!** *Come back here if you want to learn more!*
 
 [Jump To The App](https://app.emotiscope.rocks/){: .btn .btn-green }
 
@@ -104,6 +104,14 @@ You can toggle whether or not Emotiscope daydreams between songs
 ## Temporal Dithering
 
 If you find you're sensitive to the high-speed (200-400Hz) color switching Emotiscope uses to draw smoother gradients, you can disable it. This reduces color reproduction from approximately 12-bit color to 8-bit.
+
+## Calibrate Touch Sensors
+
+If Emotiscope's touch sensors are ever misfiring, you can calibrate them to the environment and your fingers with a short on-screen walkthrough.
+
+## Check Firmware Update
+
+The Emotiscope app will check to see if a newer version of the Emotiscope / Remote Control are available. If something new releases, you'll be able to install it automatically with a tap!
 
 
 
