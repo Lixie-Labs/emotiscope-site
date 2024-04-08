@@ -1,5 +1,5 @@
 ---
-title: App Tour
+title: The Remote Control
 layout: page
 parent: Getting Started
 nav_order: 3
@@ -7,9 +7,17 @@ nav_order: 3
 
 # the **remote control**
 
-If your phone didn't automatically forward you to the Emotiscope web app, then you can access it from the button below. It's a web-app, you don't need to install anything from your phone's app store! Add it to your homescreen in your browser's menu and it'll have a nice Emotiscope icon. No account, no ads, no lag, just **play some funky tunes, and enjoy!** *Come back here if you want to learn more!*
+A web-app built by a hardware designer to be fun, responive, and ergonomic. You don't need an account, there's no ads, there's no subscription. You can save it to your homescreen via the browser's menu and it'll get an icon just like a "real" app.
+
+If there's an Emotiscope on a WiFi network, any phone on that same network can control it - including your friends at the party. Just put "[app.emotiscope.rocks](https://app.emotiscope.rocks/)" into any Android or iPhone browser to be automatically forwarded to your Emotiscope's Remote Control screen.
+
+It's not like "smart home" devices that take a short moment to react once you've touched your screen. Emotiscope is designed with high-speed communication that allows your phone to smoothly and intuitively control Emotiscope without any perceptible delay.
+
+If your phone didn't automatically forward you to the Emotiscope web app already, then you can access it from the button below. **Play some funky tunes, and enjoy!**
 
 [Jump To The App](https://app.emotiscope.rocks/){: .btn .btn-green }
+
+*Come back here if you want to learn more!*
 
 # the **quick tour**
 
