@@ -85,6 +85,28 @@ Bloom Mode is quite versatile. Dragging the speed slider all the way down makes 
 
 Neutral Mode does nothing, but it does nothing *really well*. For occasions where you want a beautiful light bar that *doesn't* react to sound, Neutral Mode allows you to customize the colors without listening to music.
 
+# room **calibration**
+
+Emotiscope can adapt to different acoustic environments by sampling the background noise. With no music playing, hit the Remove Background Noise button and one second later Emotiscope will stop responding to ambient stimuli like air conditioners or urban traffic.
+
+# the **screensaver**
+
+When no audio is heard for a short while, Emotiscope will gently daydream a 4-colored pattern while it awaits new tunes. You can disable this in the Top Menu if you'd like.
+
+# the **top menu**
+
+Up in the top menu, you'll get to the deeper settings and data about Emotiscope.
+
+## Screensaver
+
+You can toggle whether or not Emotiscope daydreams between songs
+
+## Temporal Dithering
+
+If you find you're sensitive to the high-speed (200-400Hz) color switching Emotiscope uses to draw smoother gradients, you can disable it. This reduces color reproduction from approximately 12-bit color to 8-bit.
+
+
+
 > You found the page I haven't finished yet today!
 >
 > Congratulations, stay tuned!
@@ -92,10 +114,5 @@ Neutral Mode does nothing, but it does nothing *really well*. For occasions wher
 {: .warning }
 While the advice in this section is likely correct in 99% of cases, ALWAYS double check the labelling and color scheme of the wires in your own LED strip to be sure that nothing will be damaged.
 
-Once the wires are stripped, insert them into the LED terminal as shown, tightening the screws down on the wires as you go. Be sure that none of the bare wire is exposed, so that it cannot short-circuit with itself. (If you're using a 4-wire strip, be sure to hook up all four wires correctly.)
-
 {: .highlight }
 Some strips have duplicate wires for 5V and GND. These can be wired to a separate power supply, individually covered with electrical tape, or doubled-up into the corresponding terminals if you plan to power the LEDs using only the Sensory Bridge.
-
-![SENSORY BRIDGE IS SIMPLE](https://github.com/connornishijima/sensory_bridge_docs/blob/main/img/16.jpg?raw=true)
-
