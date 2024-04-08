@@ -85,6 +85,14 @@ Bloom Mode is quite versatile. Dragging the speed slider all the way down makes 
 
 Neutral Mode does nothing, but it does nothing *really well*. For occasions where you want a beautiful light bar that *doesn't* react to sound, Neutral Mode allows you to customize the colors without listening to music.
 
+# the **indicator lamp**
+
+Emotiscope has a mellow yellow LED on the front, that does only three things:
+
+- **Dim, steady** - Emotiscope is connect to WiFi and ready for use
+- **Bright, steady** - You're interacting with Emotiscope through the app or touch
+- **Flashing** - No WiFi connection available
+
 # room **calibration**
 
 Emotiscope can adapt to different acoustic environments by sampling the background noise. With no music playing, hit the Remove Background Noise button and one second later Emotiscope will stop responding to ambient stimuli like air conditioners or urban traffic.
@@ -113,7 +121,13 @@ If Emotiscope's touch sensors are ever misfiring, you can calibrate them to the 
 
 The Emotiscope app will check to see if a newer version of the Emotiscope / Remote Control are available. If something new releases, you'll be able to install it automatically with a tap!
 
+## Reset Emotiscope
 
+For when you want to watch how fast Emotiscope reboots.
+
+## Reboot into WiFi Config Mode
+
+This will cause Emotiscope to manually re-open the "Emotiscope Setup" Wi-Fi network so you can change the WiFi network. However, if you changed something about your WiFi network (new password) and Emotiscope can't connect to it anymore, it will automatically enter WiFi config mode. Any time Emotiscope can't connect to WiFi, the indicator lamp on the front 
 
 > You found the page I haven't finished yet today!
 >
