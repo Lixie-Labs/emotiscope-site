@@ -7,7 +7,7 @@ nav_order: 3
 
 # the **remote control**
 
-If your phone didn't automatically forward you to the Emotiscope web app, then you can access it from the button below. It's a webpage, you don't need to install anything from your app store! Add it to your phone's homescreen and it will have an Emotiscope icon and all. No account, no ads, no lag, just **play some funky tunes, and enjoy!** *Come back here if you want to learn more!*
+If your phone didn't automatically forward you to the Emotiscope web app, then you can access it from the button below. It's a web-app, you don't need to install anything from your phone's app store! Add it to your homescreen in your browser's menu and it'll have a nice Emotiscope icon. No account, no ads, no lag, just **play some funky tunes, and enjoy!** *Come back here if you want to learn more!*
 
 [Jump To The App](https://app.emotiscope.rocks/){: .btn .btn-green }
 
@@ -21,7 +21,7 @@ If you've ever used a dimmer switch, *you already understand Sliders.*
 
 Too dim? Pull up. Too colorful? Pull down. You'll always see three Sliders on-screen at a given time, but you can always swipe horizontally to scroll through the **Slider Gallery**.
 
-Each slider can be used to customize the current light-show mode:
+Each Slider can be used to customize the current light-show mode:
 
 | Setting       | Description                                                                                                                                                                                        |
 |---------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
