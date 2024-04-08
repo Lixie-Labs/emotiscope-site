@@ -9,6 +9,8 @@ nav_order: 3
 
 A web-app built by a hardware designer to be fun, responive, and ergonomic. You don't need an account, there's no ads, there's no subscription. You can save it to your homescreen via the browser's menu and it'll get an icon just like a "real" app.
 
+![Remote Control](https://github.com/lixie-labs/emotiscope-site/blob/main/img/remote_control.jpg?raw=true)
+
 If there's an Emotiscope on a WiFi network, any phone on that same network can control it - including your friends at the party. Just put "[app.emotiscope.rocks](https://app.emotiscope.rocks/)" into any Android or iPhone browser to be automatically forwarded to your Emotiscope's Remote Control screen.
 
 It's not like "smart home" devices that take a short moment to react once you've touched your screen. Emotiscope is designed with high-speed communication that allows your phone to smoothly and intuitively control Emotiscope without any perceptible delay. If you we're already forwarded to the Emotiscope web app already, then you can access it from the button below. 
