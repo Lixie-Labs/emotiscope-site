@@ -11,11 +11,11 @@ If your phone didn't automatically forward you to the Emotiscope web app, then y
 
 [Jump To The App](https://app.emotiscope.rocks/){: .btn .btn-green }
 
-![GALLERY](https://github.com/lixie-labs/emotiscope-site/blob/main/img/gallery.jpg?raw=true)
-
 # the **quick tour**
 
 I've tried my best to keep Emotiscope's remote *(Remotiscope?)* as simple as possible, with only one main function to learn: **Sliders**.
+
+![GALLERY](https://github.com/lixie-labs/emotiscope-site/blob/main/img/gallery.jpg?raw=true)
 
 If you've ever used a dimmer switch, *you already understand Sliders.*
 
