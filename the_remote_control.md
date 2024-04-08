@@ -11,9 +11,9 @@ A web-app built by a hardware designer to be fun, responive, and ergonomic. You 
 
 If there's an Emotiscope on a WiFi network, any phone on that same network can control it - including your friends at the party. Just put "[app.emotiscope.rocks](https://app.emotiscope.rocks/)" into any Android or iPhone browser to be automatically forwarded to your Emotiscope's Remote Control screen.
 
-It's not like "smart home" devices that take a short moment to react once you've touched your screen. Emotiscope is designed with high-speed communication that allows your phone to smoothly and intuitively control Emotiscope without any perceptible delay.
+It's not like "smart home" devices that take a short moment to react once you've touched your screen. Emotiscope is designed with high-speed communication that allows your phone to smoothly and intuitively control Emotiscope without any perceptible delay. If you we're already forwarded to the Emotiscope web app already, then you can access it from the button below. 
 
-If your phone didn't automatically forward you to the Emotiscope web app already, then you can access it from the button below. **Play some funky tunes, and enjoy!**
+**Play some funky tunes, and enjoy.** - [@lixielabs](https://twitter.com/lixielabs)
 
 [Jump To The App](https://app.emotiscope.rocks/){: .btn .btn-green }
 
