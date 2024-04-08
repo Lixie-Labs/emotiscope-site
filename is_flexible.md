@@ -7,7 +7,7 @@ nav_order: 3
 
 # emotiscope&nbsp;is **flexible**
 
-**There's a mode for every mood.** A lot of work has gone into creating polished and engaging light-shows that react at a moments' notice to musical changes. So far, Emotiscope has 7 customizable light-show modes:
+**There's a mode for every mood.** A lot of work has gone into creating polished and engaging light-shows that react at a moments' notice to musical changes. So far, Emotiscope has **8** customizable light-show modes:
 
 ## **ANALOG**
 
@@ -50,6 +50,10 @@ Hype Mode is for partying it up. This is the mode for dance music and bass drops
 Bloom Mode is quite versatile. Dragging the speed slider all the way down makes a slowly expanding pattern that flutters to your tunes, and turning the speed slider all the way up makes for a hypnotizing dive into a psychedelic tunnel.
 
 <iframe class="youtube-video" src="https://www.youtube.com/embed/GtlkNGFajNk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## **NEUTRAL**
+
+Neutral Mode does nothing, but it does nothing *really well*. For occasions where you want a beautiful light bar that *doesn't* react to sound, Neutral Mode allows you to customize the colors without listening to music.
 
 {: .glow }
 > ***If you're feeling interested in an Emotiscope, let's look at what's included in the box...***{: .text-right }
