@@ -5,11 +5,19 @@ parent: Getting Started
 nav_order: 3
 ---
 
-# the **emotiscope app**
+# the **remote control**
 
-If your phone didn't automatically forward you to the Emotiscope web app, then you can access it from here:
+If your phone didn't automatically forward you to the Emotiscope web app, then you can access it from the button below. Play some funky tunes, and enjoy. *Come back here if you want to learn more!*
 
 [Jump To The App](https://app.emotiscope.rocks/){: .btn .btn-green }
+
+# the **full tour**
+
+I've tried my best to keep Emotiscope's remote as simple as possible, with only one main function to learn: **Sliders**. If you've ever used a dimmer switch, *you already understand Sliders.* Too dim? Pull up. Too colorful? Pull down.
+
+You'll always see three Sliders on-screen at a given time, but you can always swipe horizontally to scroll through the Slider Gallery.
+
+
 
 > You found the page I haven't finished yet today!
 >
