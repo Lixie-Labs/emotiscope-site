@@ -11,7 +11,7 @@ Time to get Emotiscope on your network so you can control it from your phone!
 
 On your phone, visit your WiFi settings menu, and look for a network called "Emotiscope Setup":
 
-![WIFI SETUP](https://github.com/lixie-labs/emotiscope-site/blob/main/img/your_network.jpg?raw=true)
+![WIFI SETUP](https://github.com/lixie-labs/emotiscope-site/blob/main/img/network_connection.png?raw=true)
 
 Connect to it, and visit the URL "[emotiscope.local](http://emotiscope.local)" in your browser:
 
