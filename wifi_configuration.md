@@ -23,6 +23,6 @@ You should see this configuration page, where you can input your WiFi network na
 
 ***Now that you're in the app, let's get familiar with the controls...***
 
-[The Remote Control](https://emotiscope.rocks/app_tour.html){: .btn .btn-green .text-right }
+[The Remote Control](https://emotiscope.rocks/the_remote_control.html){: .btn .btn-green .text-right }
 
 -------------------------------------------------------
