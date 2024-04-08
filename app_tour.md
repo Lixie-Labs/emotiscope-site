@@ -17,6 +17,8 @@ I've tried my best to keep Emotiscope's remote *(Remotiscope?)* as simple as pos
 
 You'll always see three Sliders on-screen at a given time, but you can always swipe horizontally to scroll through the **Slider Gallery**.
 
+![GALLERY](https://github.com/lixie-labs/emotiscope-site/blob/main/img/gallery.jpg?raw=true)
+
 Let's learn them all really quickly:
 
 | Setting       | Description                                                                                                                                                                                        |
