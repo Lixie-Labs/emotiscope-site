@@ -95,8 +95,6 @@ Bloom Mode is quite versatile. Dragging the speed slider all the way down makes 
 
 Neutral Mode does nothing, but it does nothing *really well*. For occasions where you want a beautiful light bar that *doesn't* react to sound, Neutral Mode allows you to customize the colors without listening to music.
 
-![INDICATOR LAMP](https://github.com/lixie-labs/emotiscope-site/blob/main/img/indicator_lamp.jpg?raw=true)
-
 # the **indicator lamp**
 
 Emotiscope has a mellow yellow LED on the front, that does only three things:
@@ -104,6 +102,8 @@ Emotiscope has a mellow yellow LED on the front, that does only three things:
 - **Dim, steady** - Emotiscope is connected to WiFi and ready for use
 - **Bright, steady** - You're interacting with Emotiscope through the app or touch
 - **Flashing** - No WiFi connection available
+
+![INDICATOR LAMP](https://github.com/lixie-labs/emotiscope-site/blob/main/img/indicator_lamp.jpg?raw=true)
 
 # room **calibration**
 
