@@ -107,7 +107,7 @@ Up in the top menu, you'll get to the deeper settings and data about Emotiscope.
 
 ## Screensaver
 
-You can toggle whether or not Emotiscope daydreams between songs
+You can toggle whether or not Emotiscope daydreams between songs!
 
 ## Temporal Dithering
 
@@ -127,7 +127,15 @@ For when you want to watch how fast Emotiscope reboots.
 
 ## Reboot into WiFi Config Mode
 
-This will cause Emotiscope to manually re-open the "Emotiscope Setup" Wi-Fi network so you can change the WiFi network. However, if you changed something about your WiFi network (new password) and Emotiscope can't connect to it anymore, it will automatically enter WiFi config mode. Any time Emotiscope can't connect to WiFi, the indicator lamp on the front 
+This will cause Emotiscope to manually re-open the "Emotiscope Setup" Wi-Fi network so you can change the WiFi network. However, if you changed something about your WiFi network (new password) and Emotiscope can't connect to it anymore, it will automatically enter WiFi config mode. Any time Emotiscope can't connect to WiFi, the indicator lamp on the front will flash.
+
+## MAC
+
+The MAC address of your Emotiscope, in case your WiFi network uses whitelisting.
+
+# Version
+
+The current version of the Emotiscope Engine firmware your device is running.
 
 > You found the page I haven't finished yet today!
 >
