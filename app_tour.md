@@ -7,7 +7,7 @@ nav_order: 3
 
 # the **remote control**
 
-If your phone didn't automatically forward you to the Emotiscope web app, then you can access it from the button below. Play some funky tunes, and enjoy. *Come back here if you want to learn more!*
+If your phone didn't automatically forward you to the Emotiscope web app, then you can access it from the button below. **Play some funky tunes, and enjoy!** *Come back here if you want to learn more!*
 
 [Jump To The App](https://app.emotiscope.rocks/){: .btn .btn-green }
 
