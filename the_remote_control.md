@@ -27,7 +27,7 @@ I've tried my best to keep Emotiscope's remote *(Remotiscope?)* as simple as pos
 
 If you've ever used a dimmer switch, *you already understand Sliders.*
 
-Too dim? Pull up. Too colorful? Pull down. You'll always see three Sliders on-screen at a given time, but you can always swipe horizontally to scroll through the **Slider Gallery**.
+Not bright enough? Pull up. Too colorful? Pull down. You'll always see three Sliders on-screen at a given time, but you can always swipe horizontally to scroll through the **Slider Gallery**.
 
 Each Slider can be used to customize the current light-show mode:
 
