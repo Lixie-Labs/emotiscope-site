@@ -99,7 +99,7 @@ Neutral Mode does nothing, but it does nothing *really well*. For occasions wher
 
 Emotiscope has a mellow yellow LED on the front, that does only three things:
 
-- **Dim, steady** - Emotiscope is connect to WiFi and ready for use
+- **Dim, steady** - Emotiscope is connected to WiFi and ready for use
 - **Bright, steady** - You're interacting with Emotiscope through the app or touch
 - **Flashing** - No WiFi connection available
 
