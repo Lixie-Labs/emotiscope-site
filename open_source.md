@@ -4,6 +4,7 @@ layout: page
 nav_order: 4
 has_children: true
 has_toc: false
+nav_exclude: true
 ---
 
 ![SENSORY BRIDGE IS SIMPLE](https://github.com/connornishijima/sensory_bridge_docs/blob/main/img/8.jpg?raw=true)
