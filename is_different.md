@@ -13,7 +13,7 @@ nav_order: 1
 
 ![TOUCH](https://github.com/lixie-labs/emotiscope/blob/main/extras/img/emotiscope_spectrum_crop.jpg?raw=true)
 
-With a magic diffuser covering 128 of the world's smallest addressable LEDs - which are being refreshed at up 450 FPS - Emotiscope doesn't looks like a screen. It looks more like some kind of neon-gas display from the far future or recent past.
+With a magic diffuser covering 128 of the world's smallest addressable LEDs - which are being refreshed at up 450 FPS - Emotiscope doesn't look like a screen. It looks more like some kind of neon-gas display from the far future or recent past.
 
 **It has to be seen to be believed, *which the video demos below can help with:***
 
