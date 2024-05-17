@@ -11,9 +11,9 @@ A web-app built by a hardware designer to be fun, responive, and ergonomic. You 
 
 ![Remote Control](https://github.com/lixie-labs/emotiscope-site/blob/main/img/remote_control.jpg?raw=true)
 
-If there's an Emotiscope on a WiFi network, any phone on that same network can control it - including your friends at the party. Just put "[app.emotiscope.rocks](https://app.emotiscope.rocks/)" into any Android or iPhone browser to be automatically forwarded to your Emotiscope's Remote Control screen.
+If there's an Emotiscope on a WiFi network, any phone on that same network can control it - including your friends at the party. Just visit "**[app.emotiscope.rocks](https://app.emotiscope.rocks/)**" in any web browser to be automatically forwarded to your Emotiscope's Remote Control screen.
 
-It's not like "smart home" devices that take a short moment to react once you've touched your screen. Emotiscope is designed with high-speed communication that allows your phone to smoothly and intuitively control Emotiscope without any perceptible delay. If you weren't already forwarded to the Emotiscope web app, then you can access it from the button below:
+It's not like "smart home" devices that take a short moment to react once you've touched your screen. Emotiscope is designed with high-speed communication that allows your phone to smoothly and intuitively control Emotiscope without any perceptible delay. If you weren't already forwarded to the Emotiscope web app after WiFi setup, then you can access it from the button below:
 
 **Play some funky tunes, and enjoy.** - [@lixielabs](https://twitter.com/lixielabs)
 
@@ -31,19 +31,23 @@ If you've ever used a dimmer switch, *you already understand Sliders.*
 
 Not bright enough? Pull up. Too colorful? Pull down. You'll always see three Sliders on-screen at a given time, but you can always swipe horizontally to scroll through the **Slider Gallery**.
 
+(Some sliders will only appear in relevant light modes!)
+
 Each Slider can be used to customize the current light-show mode:
 
-| Setting       | Description                                                                                                                                                                                        |
-|---------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Brightness    | The brightness of your Emotiscope's LED display                                                                                                                                                  |
-| Softness      | How quickly your Emotiscope's display reacts to changes; this can be used to reduce flickering effects at the cost of reaction time                                                              |
-| Speed         | How quickly patterns on screen can move (Only used in Analog and Bloom Mode)                                                                                                                                                           |
-| Color         | The base color of the current mode                                                                                                                                                               |
-| Color Range   | How much the color can vary from the base color                                                                                                                                                  |
-| Saturation    | The intensity of the color of the display                                                                                                                                                        |
-| Blue Filter   | Applies a filter to the display which limits the brightness of blue colors, similar to the look of incandenscent light bulbs that were tinted by a colored film                                  |
-| Background    | The intensity of the background color                                                                                                                                                            |
-| Mirror Mode   | **(toggle)** Scales the display to 1/2 size and mirrors it to be symmetrical                                                                                                                     |
+| Setting             | Description                                                                                                                                                                                      |
+|---------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Brightness          | The brightness of your Emotiscope's LED display                                                                                                                                                  |
+| Softness            | How quickly your Emotiscope's display reacts to changes; this can be used to reduce flickering effects at the cost of reaction time                                                              |
+| Speed               | How quickly patterns on screen can move (Only used in Analog and Bloom Mode)                                                                                                                     |
+| Color               | The color that Emotiscope shows                                                                                                                                                                  |
+| Color Range         | How much that color can vary                                                                                                                                                                     |
+| Saturation          | How vibrant the colors on Emotiscope are                                                                                                                                                         |
+| Warmth              | Applies a filter which limits the brightness of blue colors, giving a warm retro look                                                                                                            |
+| Background          | The intensity of the background gradient                                                                                                                                                         |
+| Mirror Mode         | **(toggle)** Enables a symmetrical version of the current light mode                                                                                                                             |
+| Reverse Color Range | **(toggle)** Reverses the direction of the color range, meaning that if your base color is red, the color range extends towards blue instead of green.                                           |
+| Auto Color Cycle    | **(toggle)** Automatically cycles the base color to the music during moments of high musical intensity                                                                                           |
 
 # the **light-show modes**
 
