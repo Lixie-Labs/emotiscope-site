@@ -29,7 +29,7 @@ You'll always see three settings on-screen at a given time, but you can always s
 
 ![GALLERY](https://github.com/lixie-labs/emotiscope-site/blob/main/img/gallery.jpg?raw=true)
 
-<span style="color:#c15472">**Sliders** are pink</span>, and used smoothly control settings like brightness and color.
+<span style="color:#c15472">**Sliders** are pink</span>, and are used to smoothly control settings like Brightness and Color.
 
 If you've ever used a dimmer switch, *you already understand Sliders.* Not bright enough: pull up. Too colorful: pull down. (Some sliders only appear in certain modes)
 
@@ -37,19 +37,19 @@ For settings that can only be turned on and off, there's <span style="color:#589
 
 All of these Sliders and Toggles can be used to endlessly customize the shows your Emotiscope produces:
 
-| Setting             | Description                                                                                                                                                                                      |
-|---------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Brightness          | The brightness of your Emotiscope's LED display                                                                                                                                                  |
-| Softness            | How quickly your Emotiscope's display reacts to changes; this can be used to reduce flickering effects at the cost of reaction time                                                              |
-| Speed               | How quickly patterns on screen can move (Only used in Analog and Bloom Mode)                                                                                                                     |
-| Color               | The color that Emotiscope shows                                                                                                                                                                  |
-| Color Range         | How much that color can vary                                                                                                                                                                     |
-| Saturation          | How vibrant the colors on Emotiscope are                                                                                                                                                         |
-| Warmth              | Applies a filter which limits the brightness of blue colors, giving a warm retro look                                                                                                            |
-| Background          | The intensity of the background gradient                                                                                                                                                         |
-| Mirror Mode         | **(toggle)** Enables a symmetrical version of the current light mode                                                                                                                             |
-| Reverse Color Range | **(toggle)** Reverses the direction of the color range, meaning that if your base color is red, the color range extends towards blue instead of green.                                           |
-| Auto Color Cycle    | **(toggle)** Automatically cycles the base color to the music during moments of high musical intensity                                                                                           |
+| Setting                 | Description                                                                                                                                                                                      |
+|-------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Brightness**          | The brightness of your Emotiscope's LED display                                                                                                                                                  |
+| **Softness**            | How quickly your Emotiscope's display reacts to changes; this can be used to reduce flickering effects at the cost of reaction time                                                              |
+| **Speed**               | How quickly patterns on screen can move (Only used in Analog and Bloom Mode)                                                                                                                     |
+| **Color**               | The color that Emotiscope shows                                                                                                                                                                  |
+| **Color Range**         | How much that color can vary                                                                                                                                                                     |
+| **Saturation**          | How vibrant the colors on Emotiscope are                                                                                                                                                         |
+| **Warmth**              | Applies a filter which limits the brightness of blue colors, giving a warm retro look                                                                                                            |
+| **Background**          | The intensity of the background gradient                                                                                                                                                         |
+| **Mirror Mode**         | **(toggle)** Enables a symmetrical version of the current light mode                                                                                                                             |
+| **Reverse Color Range** | **(toggle)** Reverses the direction of the color range, meaning that if your base color is red, the color range extends towards blue instead of green.                                           |
+| **Auto Color Cycle**    | **(toggle)** Automatically cycles the base color to the music during moments of high musical intensity                                                                                           |
 
 # the **light modes**
 
