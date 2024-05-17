@@ -20,6 +20,6 @@ Suddenly, it lives. Talk to it! See how your voice affects the display. Hold you
 
 ***Next, let's get Emotiscope on your WiFi so you can fully control it!***
 
-[WiFi Configuration](https://emotiscope.rocks/wifi_configuration.html){: .btn .btn-green .text-right }
+[WiFi Setup →](https://emotiscope.rocks/wifi_configuration.html){: .btn .btn-green .text-right }
 
 -------------------------------------------------------
