@@ -5,7 +5,7 @@ parent: Getting Started
 nav_order: 3
 ---
 
-# the **remote control**
+# the **remote&nbsp;control**
 
 A web-app built by a hardware designer to be fun, responive, and ergonomic. You don't need an account, there's no ads, there's no subscription. You can save it to your homescreen via the browser's menu and it'll get an icon just like a "real" app.
 
@@ -21,7 +21,7 @@ It's not like "smart home" devices that take a short moment to react once you've
 
 *Come back here if you want to learn more!*
 
-# the **quick tour**
+# the **quick&nbsp;tour**
 
 I've tried my best to keep Emotiscope's remote *(Remotiscope?)* as simple as possible, with only one main function to learn: **The Setting Gallery**.
 
@@ -51,7 +51,7 @@ All of these Sliders and Toggles can be used to endlessly customize the shows yo
 | **Reverse Color Range** | **(toggle)** Reverses the direction of the color range, meaning that if your base color is red, the color range extends towards blue instead of green.                                           |
 | **Auto Color Cycle**    | **(toggle)** Automatically cycles the base color to the music during moments of high musical intensity                                                                                           |
 
-# the **light modes**
+# the **light&nbsp;modes**
 
 Light Modes change how Emotiscope looks or reacts to sound. Not all songs will work well with every mode, but every song has at least one that will. There's many to choose from, so here's a quick break down:
 
@@ -101,7 +101,7 @@ Bloom Mode is quite versatile. Dragging the speed slider all the way down makes 
 
 Neutral Mode does nothing, but it does nothing *really well*. For occasions where you want a beautiful light bar that *doesn't* react to sound, Neutral Mode allows you to customize the colors without listening to music.
 
-# the **indicator lamp**
+# the **indicator&nbsp;lamp**
 
 Emotiscope has a mellow yellow LED on the front, that does only three things:
 
@@ -111,7 +111,7 @@ Emotiscope has a mellow yellow LED on the front, that does only three things:
 
 ![INDICATOR LAMP](https://github.com/lixie-labs/emotiscope-site/blob/main/img/indicator_lamp.jpg?raw=true)
 
-# automatic **room calibration**
+# automatic **room&nbsp;calibration**
 
 Emotiscope will automatically adapt to different acoustic environments by sampling the background noise. After a few seconds of being on, Emotiscope will automatically stop responding to ambient stimuli like air conditioners, PC fans, or urban traffic, only responding to dynamic events like music or speech.
 
@@ -119,7 +119,7 @@ Emotiscope will automatically adapt to different acoustic environments by sampli
 
 When no audio is heard for a short while, Emotiscope will gently daydream a 4-colored pattern while it awaits new tunes. You can disable this in the Top Menu if you'd like, and it only happens during "Active" light modes.
 
-# the **top menu**
+# the **top&nbsp;menu**
 
 Up in the top menu, you'll get to the deeper settings and data about Emotiscope.
 
