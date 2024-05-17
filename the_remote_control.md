@@ -51,9 +51,9 @@ All of these Sliders and Toggles can be used to endlessly customize the shows yo
 | Reverse Color Range | **(toggle)** Reverses the direction of the color range, meaning that if your base color is red, the color range extends towards blue instead of green.                                           |
 | Auto Color Cycle    | **(toggle)** Automatically cycles the base color to the music during moments of high musical intensity                                                                                           |
 
-# the **light-show modes**
+# the **light modes**
 
-Light-show Modes change how Emotiscope reacts to sound. Not all songs will work well with every mode, but every song has at least one that will. There's many to choose from, so here's a quick break down:
+Light Modes change how Emotiscope looks or reacts to sound. Not all songs will work well with every mode, but every song has at least one that will. There's many to choose from, so here's a quick break down:
 
 ## **ANALOG**
 
@@ -63,7 +63,7 @@ Analog Mode simulates the movement of a analog VU meter, with dots of light reac
 
 ## **SPECTRUM**
 
-Spectrum Mode shows the detected strengths of all musical notes between 110 Hz and 4186 Hz (The upper 64 keys of a piano), showing chords, vibrato and even basslines in the center! (For the music geeks, that's A2 through C8!)
+Spectrum Mode shows the detected strengths of all musical notes between 110 Hz and 4186 Hz (The upper 64 keys of a piano), showing chords, vibrato and even basslines! (For the music geeks, that's A2 through C8!)
 
 <iframe class="youtube-video" src="https://www.youtube.com/embed/FeMDX4kWn0s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -87,7 +87,7 @@ This is actually a hybrid mode! When confidence in the tempo calculation is low,
 
 ## **HYPE**
 
-Hype Mode is for partying it up. This is the mode for dance music and bass drops. All tempo readings are summed up into a single wave, meaning complicated patterns can emerge from the average song, which are wiggling to and fro to the beat of the music. As a rule of thumb, if it's a song you think you could generate "hype" with, it works great with this mode.
+Hype Mode is for partying it up. This is the mode for dance music and bass drops. All tempo readings are summed up into a two waves, meaning complicated patterns can emerge from the average song, which are wiggling to and fro to the beat of the music. As a rule of thumb, if it's a song you think you could generate "hype" with, it works great with this mode.
 
 <iframe class="youtube-video" src="https://www.youtube.com/embed/m00ZpmTfyCw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -111,13 +111,13 @@ Emotiscope has a mellow yellow LED on the front, that does only three things:
 
 ![INDICATOR LAMP](https://github.com/lixie-labs/emotiscope-site/blob/main/img/indicator_lamp.jpg?raw=true)
 
-# room **calibration**
+# automatic **room calibration**
 
-Emotiscope can adapt to different acoustic environments by sampling the background noise. With no music playing, hit the Remove Background Noise button and one second later Emotiscope will stop responding to ambient stimuli like air conditioners or urban traffic.
+Emotiscope will automatically adapt to different acoustic environments by sampling the background noise. After a few seconds of being on, Emotiscope will automatically stop responding to ambient stimuli like air conditioners, PC fans, or urban traffic, only responding to dynamic events like music or speech.
 
 # the **screensaver**
 
-When no audio is heard for a short while, Emotiscope will gently daydream a 4-colored pattern while it awaits new tunes. You can disable this in the Top Menu if you'd like.
+When no audio is heard for a short while, Emotiscope will gently daydream a 4-colored pattern while it awaits new tunes. You can disable this in the Top Menu if you'd like, and it only happens during "Active" light modes.
 
 # the **top menu**
 
@@ -133,21 +133,21 @@ You can toggle whether or not Emotiscope daydreams between songs!
 
 If you find you're sensitive to the high-speed (200-400Hz) color switching Emotiscope uses to draw smoother gradients, you can disable it. This reduces color reproduction from approximately 12-bit color to 8-bit.
 
-## Calibrate Touch Sensors
-
-If Emotiscope's touch sensors are ever misfiring, you can calibrate them to the environment and your fingers with a short on-screen walkthrough.
-
 ## Check Firmware Update
 
 The Emotiscope app will check to see if a newer version of the Emotiscope / Remote Control are available. If something new releases, you'll be able to install it automatically with a tap!
 
-## Reset Emotiscope
+## Reboot Emotiscope
 
 For when you want to watch how fast Emotiscope reboots.
 
-## Reboot into WiFi Config Mode
+## Enter WiFi Config Mode
 
-This will cause Emotiscope to manually re-open the "Emotiscope Setup" Wi-Fi network so you can change the WiFi network. However, if you changed something about your WiFi network (new password) and Emotiscope can't connect to it anymore, it will automatically enter WiFi config mode. Any time Emotiscope can't connect to WiFi, the indicator lamp on the front will flash.
+This will cause Emotiscope to manually re-open the "Emotiscope Setup" Wi-Fi network so you can change the WiFi network. However, if you changed something about your WiFi network (new password) and Emotiscope can't connect to it anymore, it will automatically enter WiFi config mode anyways. Any time Emotiscope can't connect to WiFi, the indicator lamp on the front will flash.
+
+## Start Self Test
+
+If you want to see a test pattern shown on Emotiscope's LEDs, you're in luck!
 
 ## MAC
 
