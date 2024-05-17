@@ -23,17 +23,19 @@ It's not like "smart home" devices that take a short moment to react once you've
 
 # the **quick tour**
 
-I've tried my best to keep Emotiscope's remote *(Remotiscope?)* as simple as possible, with only one main function to learn: **Sliders**.
+I've tried my best to keep Emotiscope's remote *(Remotiscope?)* as simple as possible, with only one main function to learn: **The Setting Gallery**.
+
+You'll always see three settings on-screen at a given time, but you can always swipe horizontally to scroll through The Setting Gallery.
 
 ![GALLERY](https://github.com/lixie-labs/emotiscope-site/blob/main/img/gallery.jpg?raw=true)
 
-If you've ever used a dimmer switch, *you already understand Sliders.*
+<span style="color:#c15472">**Sliders** are pink</span>, and used smoothly control settings like brightness and color.
 
-Not bright enough? Pull up. Too colorful? Pull down. You'll always see three Sliders on-screen at a given time, but you can always swipe horizontally to scroll through the **Slider Gallery**.
+If you've ever used a dimmer switch, *you already understand Sliders.* Not bright enough: pull up. Too colorful: pull down. (Some sliders only appear in certain modes)
 
-(Some sliders will only appear in relevant light modes!)
+For settings that can only be turned on and off, there's <span style="color:#5897ce">**Toggles**, which are blue</span>.
 
-Each Slider can be used to customize the current light-show mode:
+All of these Sliders and Toggles can be used to endlessly customize the shows your Emotiscope produces:
 
 | Setting             | Description                                                                                                                                                                                      |
 |---------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
