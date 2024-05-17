@@ -13,11 +13,11 @@ On your phone, visit your WiFi settings menu, and look for a network called "Emo
 
 ![WIFI SETUP](https://github.com/lixie-labs/emotiscope-site/blob/main/img/network_connection.png?raw=true)
 
-![WIFI SETUP](https://github.com/lixie-labs/emotiscope-site/blob/main/img/wifi_setup.jpg?raw=true)
-
 Connect to it, and visit the URL "**[emotiscope.local](http://emotiscope.local)**" in your browser.
 
 You should see this configuration page, where you can input your WiFi network name and password. Once you hit "Connect", Emotiscope will attempt to connect to your WiFi network and the page should automatically transition into the Emotiscope App.
+
+![WIFI SETUP](https://github.com/lixie-labs/emotiscope-site/blob/main/img/wifi_setup.jpg?raw=true)
 
 {: .info }
 > TROUBLESHOOTING TIPS:
