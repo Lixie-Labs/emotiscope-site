@@ -8,8 +8,9 @@ nav_order: 5
 
 Want to print your parts in other colors? There's endless options. (You'll want a full-size 3D printer for some pieces)
 
-{: .warn }
-Emotiscope has 128 very delicate LEDs inside. There is double-sided tape holding a two-halved LED Spacer piece to the circuit board behind it. Lixie Labs assumes no responsibility for broken LED strips as a result of modifying or replacing the LED Spacer piece, so only replace it if you're an experienced maker aware of the risk.
+**DISCLAIMER:**
+
+*Emotiscope has 128 very delicate LEDs inside. There is double-sided tape holding a two-halved LED Spacer piece to the circuit board behind it. Lixie Labs assumes no responsibility for broken LED strips as a result of modifying or replacing the LED Spacer piece, so only replace it if you're an experienced maker aware of the risk. Just don't apply any lateral forces to them, and it should be fine.*
 
 -------------------------------------------------
 
