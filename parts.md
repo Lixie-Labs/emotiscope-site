@@ -16,11 +16,11 @@ By default, Emotiscope is printed in [Galaxy Black PLA by Prusa Research](https:
 
 | PART                          | STL FILE                                                                                                                                          |
 |:------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Leg**                       | [DOWNLOAD STL](https://github.com/connornishijima/SensoryBridge/blob/main/extras/OSHW/3D%20Printing/SENSORY_BRIDGE_BASE.stl){: .btn .btn-green }  |
-| **Screw Cover**               | [DOWNLOAD STL](https://github.com/connornishijima/sensory_bridge_docs/blob/main/extras/OSHW/MICRODOSE_BRACE.stl){: .btn .btn-green }      |
-| **USB Cover**                 | [DOWNLOAD STL](https://github.com/connornishijima/SensoryBridge/blob/main/extras/OSHW/3D%20Printing/MINI_MAST_MOUNT.stl){: .btn .btn-green }      |
-| **Spacer (Large)**            | [DOWNLOAD STL](https://github.com/connornishijima/SensoryBridge/blob/main/extras/OSHW/3D%20Printing/MINI_MAST_MOUNT.stl){: .btn .btn-green }      |
-| **Spacer (Mini Printer Set)** | [DOWNLOAD STL](https://github.com/connornishijima/SensoryBridge/blob/main/extras/OSHW/3D%20Printing/MINI_MAST_MOUNT.stl){: .btn .btn-green }      |
+| **Foot**                      | [DOWNLOAD STL](https://github.com/lixie-labs/emotiscope-site/blob/main/PARTS/FOOT.stl){: .btn .btn-green }  |
+| **Screw Cover**               | [DOWNLOAD STL](https://github.com/lixie-labs/emotiscope-site/blob/main/PARTS/SCREW_COVER.stl){: .btn .btn-green }      |
+| **USB Cover**                 | [DOWNLOAD STL](https://github.com/lixie-labs/emotiscope-site/blob/main/PARTS/USB_COVER.stl){: .btn .btn-green }      |
+| **Spacer (Whole)**            | [DOWNLOAD STL](https://github.com/lixie-labs/emotiscope-site/blob/main/PARTS/SPACER_WHOLE.stl){: .btn .btn-green }      |
+| **Spacer (Mini Printer Set)** | [DOWNLOAD STL](https://github.com/lixie-labs/emotiscope-site/blob/main/PARTS/SPACER_MINI.stl){: .btn .btn-green }      |
 
 -------------------------------------------------
 
