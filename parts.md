@@ -6,7 +6,10 @@ nav_order: 5
 
 # Print Your Own Emotiscope Parts
 
-Want to print your parts in other colors? There's endless options, and you can print your own versions of Emotiscope's laser-cut parts too! (You'll want a full-size 3D printer for some pieces.)
+Want to print your parts in other colors? There's endless options. (You'll want a full-size 3D printer for some pieces)
+
+{: .warn }
+Emotiscope has 128 very delicate LEDs inside. There is double-sided tape holding a two-halved LED Spacer piece to the circuit board behind it. Lixie Labs assumes no responsibility for broken LED strips as a result of modifying or replacing the LED Spacer piece, so only replace it if you're an experienced maker aware of the risk.
 
 -------------------------------------------------
 
@@ -14,13 +17,13 @@ Want to print your parts in other colors? There's endless options, and you can p
 
 By default, Emotiscope is printed in [Galaxy Black PLA by Prusa Research](https://www.prusa3d.com/product/prusament-pla-prusa-galaxy-black-1kg/), at a 0.2mm layer height.
 
-| PART                          | STL FILE                                                                                                                                          |
-|:------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Foot**                      | [DOWNLOAD STL](https://github.com/lixie-labs/emotiscope-site/blob/main/PARTS/FOOT.stl){: .btn .btn-green }  |
-| **Screw Cover**               | [DOWNLOAD STL](https://github.com/lixie-labs/emotiscope-site/blob/main/PARTS/SCREW_COVER.stl){: .btn .btn-green }      |
-| **USB Cover**                 | [DOWNLOAD STL](https://github.com/lixie-labs/emotiscope-site/blob/main/PARTS/USB_COVER.stl){: .btn .btn-green }      |
-| **Spacer (Whole)**            | [DOWNLOAD STL](https://github.com/lixie-labs/emotiscope-site/blob/main/PARTS/SPACER_WHOLE.stl){: .btn .btn-green }      |
-| **Spacer (Mini Printer Set)** | [DOWNLOAD STL](https://github.com/lixie-labs/emotiscope-site/blob/main/PARTS/SPACER_MINI.stl){: .btn .btn-green }      |
+| PART                              | STL FILE                                                                                                                                          |
+|:----------------------------------|:-------------------------------------------------------------------------------------------------------------------|
+| **Foot**                          | [DOWNLOAD STL](https://github.com/lixie-labs/emotiscope-site/blob/main/PARTS/FOOT.stl){: .btn .btn-green }         |
+| **Screw Cover**                   | [DOWNLOAD STL](https://github.com/lixie-labs/emotiscope-site/blob/main/PARTS/SCREW_COVER.stl){: .btn .btn-green }  |
+| **USB Cover**                     | [DOWNLOAD STL](https://github.com/lixie-labs/emotiscope-site/blob/main/PARTS/USB_COVER.stl){: .btn .btn-green }    |
+| **LED Spacer (Whole)**            | [DOWNLOAD STL](https://github.com/lixie-labs/emotiscope-site/blob/main/PARTS/SPACER_WHOLE.stl){: .btn .btn-green } |
+| **LED Spacer (Mini Printer Set)** | [DOWNLOAD STL](https://github.com/lixie-labs/emotiscope-site/blob/main/PARTS/SPACER_MINI.stl){: .btn .btn-green }  |
 
 -------------------------------------------------
 
