@@ -8,7 +8,7 @@ has_toc: false
 
 <t1>a&nbsp;music&nbsp;visualizer <strong>from&nbsp;the&nbsp;future</strong></t1> 
 
-<t2>Emotiscope is built from the ground up as an open, powerful bridge between sight and sound.</t2> 
+<t2>I designed Emotiscope as a powerful bridge between sight and sound. 128 micro LEDs dance to any song you like, in any color, in many modes.</t2> 
 
 [Learn More](https://emotiscope.rocks/is_different.html){: .btn .btn-green }
 [Jump To The App](https://app.emotiscope.rocks){: .btn .btn-blue }
