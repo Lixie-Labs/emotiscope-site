@@ -9,7 +9,7 @@ has_toc: false
 <t1>a&nbsp;music&nbsp;visualizer <strong>from&nbsp;the&nbsp;future</strong></t1> 
 
 <t2>I designed Emotiscope as a powerful bridge between sight and sound.</t2>
-
+<br>
 <t2>128 micro-LEDs fluently dance to any song, in any color, in many modes!</t2> 
 
 [Learn More](https://emotiscope.rocks/is_different.html){: .btn .btn-green }
