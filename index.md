@@ -10,7 +10,7 @@ has_toc: false
 
 <t2>I designed Emotiscope as a powerful bridge between sight and sound.<br>
 <br>
-128 micro-LEDs fluently dance to any song, in any color, in many modes!</t2> 
+A built-in microphone allows 128 micro-LEDs to fluently dance to any song, in any color, and in many modes!</t2> 
 
 [Learn More](https://emotiscope.rocks/is_different.html){: .btn .btn-green }
 [Jump To The App](https://app.emotiscope.rocks){: .btn .btn-blue }
