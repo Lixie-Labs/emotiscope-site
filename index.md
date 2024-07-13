@@ -1,5 +1,5 @@
 ---
-title: Emotiscope is...
+title: a music visualizer from the future
 layout: home
 nav_order: 2
 has_children: true
